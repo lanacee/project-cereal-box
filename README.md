@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# 🥣 Cereal Box License 🪪 🏎️ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+"Did they get their license from a cereal box!?" 
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+Want to complain about old mate in the Ute who forgot about indicators?
 
-### `npm start`
+Pretty sure that lady in the Range Rover who cut you off has done it before?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Convinced that driver got his license from a cereal box?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Dob them in and let the world know at: [placeholder](link) 
 
-### `npm test`
+## This application uses:
+- React
+- TypeScript
+- Node.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## App features and screenshots
 
-### `npm run build`
+- Responsive design
+- User login/logout
+- Light and dark mode
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Wireframes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Placeholder link to wireframes](link) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Entity Relationship Diagram (ERD)
 
-### `npm run eject`
+[Placeholder link to wireframes](link) 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Unsolved problems, future updates and ideas for future features
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Users can upload videos in addition to photos (such as dashcam footage)
