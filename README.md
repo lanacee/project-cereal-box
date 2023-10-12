@@ -25,11 +25,11 @@ Dob them in and let the world know at: [placeholder](link)
 - User login/logout
 - Light and dark mode
 
-## Wireframes
-
-[Placeholder link to wireframes](link) 
-
 ## Entity Relationship Diagram (ERD)
+
+![cereal_box_database_diagram](https://github.com/lanacee/project-cereal-box/assets/78309395/4b4dab47-0fd2-4b3b-82c9-4589ca7d16fd)
+
+## Wireframes
 
 [Placeholder link to wireframes](link) 
 
